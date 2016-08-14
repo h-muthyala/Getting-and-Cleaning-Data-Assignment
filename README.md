@@ -25,14 +25,6 @@ Create one R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The output from step 5 in the above instructions is included as the file "secondTidyDataSet.txt". The data from this file can be viewed in R by running the following R code:
-
-address <- ""
-
-address <- sub("^https", "http", address)
-
-data <- read.table(url(address), header = TRUE) 
-
-View(data)
+The output from step 5 in the above instructions is included as the file "secondTidyDataSet.txt".
 
   
