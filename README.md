@@ -14,9 +14,9 @@ The data represent data collected from the accelerometers from the Samsung Galax
 The final submission includes the following files:
 <ul>
     README.md
-    CodeBook.md
-    run_analysis.R
-    secondTidyDataset.txt
+    CodeBook.md - a brief description of the data and transformation steps, with some details of the variables included in the final dataset. 
+    run_analysis.R - R script containg the code to complete the steps in the assignment
+    secondTidyDataset.txt - final tidy data set produced in step 5, as described in Assignment Instructions below.
 </ul>
 
 <u><b>ASSIGNMENT INSTRUCTIONS:</b></u>
